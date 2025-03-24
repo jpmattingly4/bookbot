@@ -1,4 +1,4 @@
-# bookbot
+# Bookbot
 
 Counts the number of words and the number of each alpha character in a text.
 
@@ -16,9 +16,9 @@ python3
 
 Run through program from terminal using main.py <path_to_file>
 
-'''
+```
 python3 main.py <path_to_file>
-'''
+```
 
 ## Authors
 
